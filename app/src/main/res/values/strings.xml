@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuildVariant Example</string>
+    <string name="master_branch">Master Branch</string>
+    <string name="developer_branch">Developer Branch</string>
+</resources>
